@@ -1,6 +1,4 @@
-from multiprocessing import Value
 import subprocess
-import os
 from flask import Flask, render_template, request
 app = Flask(__name__)
 
