@@ -1,0 +1,5 @@
+# virtual environment directory
+ver3.10
+
+# python cache
+__pycache__
